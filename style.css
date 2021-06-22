@@ -1,0 +1,43 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+  }
+  p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+  }
+  body {background-color: #72A98F;
+  }
+  .a1 {
+    font-size: 25px;
+  }
+  .a2 {
+    font-size: 21px;
+  }
+  .a3 {
+    font-size: 18px;
+  }
+  .nome {
+      text-align: center;
+  }
+  .ajuste {
+      display:inline-block;
+      max-width: 70%;
+      padding: 15px;
+  }
+  .foto {
+      padding: 15px;
+      margin: 15px;
+      background-color: #3D5A6C;
+      position: relative;
+  }
+  .descricao {
+    position: absolute;
+    top: 21%;
+  }
+  .outros {
+      padding: 15px;
+}
+ol li:nth-child(odd){
+   background-color: beige;
+}
